@@ -15,6 +15,6 @@ jobs:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
           known-hosts: ${{ secrets.KNOWN_HOSTS }}
       - name: Pull latest changes
-        run: ssh ubuntu@ec2-44-197-192-208.compute-1.amazonaws.com 'sudo cd /var/www/html/CC_Project_UE20CS351 && git pull'
+        run: ssh ubuntu@ip-172-31-64-194 'cd /var/www/html/CC_Project_UE20CS351 && git pull'
       - name: Restart Nginx
-        run: ssh ubuntu@ec2-44-197-192-208.compute-1.amazonaws.com 'sudo systemctl restart nginx'
+        run: ssh ubuntu@ip-172-31-64-194 'sudo systemctl restart nginx'
