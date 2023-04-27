@@ -32,6 +32,9 @@ Nandini              : PES1UG21CS823
 
 ![image](https://user-images.githubusercontent.com/51742316/234736703-ac7de8c2-46d0-4237-a1ec-f7636eaf5292.png)
 
+
+Set Created AWS RDS endpoint address, username and password in config.php
+
 ![image](https://user-images.githubusercontent.com/51742316/234736475-59b6746f-d930-4b66-b04d-bc28732c92a0.png)
 
 
