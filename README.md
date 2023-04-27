@@ -4,16 +4,16 @@ This project is done as part of the academic cource cloud computing with course 
 
 Cloud Computing Mini Project team:
 
-Pavankumar Hegde  : PES1UG20CS823
+Pavankumar Hegde     : PES1UG20CS823
 
-Monisha           : PES1UG21CS820
+Monisha              : PES1UG21CS820
 
-Nagaratna Naik    : PES1UG21CS821
+Nagaratna Naik       : PES1UG21CS821
 
-Nandini           : PES1UG21CS823
+Nandini              : PES1UG21CS823
 
 
-#AWS Web Deployment Using EC2 Instance and RDS Database
+# AWS Web Deployment Using EC2 Instance and RDS Database
 
 # Task 0: Setting AWS Budget
 
