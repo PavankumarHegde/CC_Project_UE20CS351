@@ -27,6 +27,7 @@ Nandini              : PES1UG21CS823
 ![image](https://user-images.githubusercontent.com/51742316/234736390-972d6a37-787b-4173-bcee-04956283d647.png)
 
 
+
 # Task 2: Deploying database using AWS RDS
 
 ![image](https://user-images.githubusercontent.com/51742316/234736703-ac7de8c2-46d0-4237-a1ec-f7636eaf5292.png)
@@ -54,6 +55,7 @@ Github actions workflow is created
 ![image](https://user-images.githubusercontent.com/51742316/234733808-74e820f9-264c-4a10-bd0a-231f06168560.png)
 
 
+
 Github post-update hooks created for pulling git rerpo after successful push:
 
 ![image](https://user-images.githubusercontent.com/51742316/234736029-00b880ac-d707-4b85-966d-ad0d9a8ab6f9.png)
@@ -63,3 +65,31 @@ Github post-update hooks created for pulling git rerpo after successful push:
 
 
 
+# Commands Used in Project:
+
+sudo apt install apache2
+
+sudo service apache2 status
+
+sudo service apache2 start
+
+sudo apt install nginx
+
+sudo service nginx status
+
+sudo service nginx start
+
+sudo service ufw status //Firewall
+
+sudo service ufw disable //Disable firewall
+
+
+connecting aws ec2 instance in windows terminal:
+
+ssh -i "password1.pem" ubuntu@ec2-44-200-29-50.compute-1.amazonaws.com
+
+sudo apt install git
+
+GitHub Cloning in path var/www/html
+
+git clone https://github.com/PavankumarHegde/CC_Project_UE20CS351.git
