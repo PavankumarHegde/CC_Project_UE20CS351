@@ -44,6 +44,11 @@ EC2 Instance Created
 
 ![image](https://user-images.githubusercontent.com/51742316/234734360-3c25e82f-98c4-4da0-bf6a-6a1764c70106.png)
 
+php-sg Security Group in Created in AWS
+
+![image](https://user-images.githubusercontent.com/51742316/234739800-c04eacba-340a-45ea-bc02-1dcea06081cf.png)
+
+
 ![image](https://user-images.githubusercontent.com/51742316/234736854-96f4fb15-7fdc-4cd6-9066-94dd7c77e88d.png)
 
 ![image](https://user-images.githubusercontent.com/51742316/234736905-ca469fc3-dd60-4e1d-8051-c251ab8c4308.png)
