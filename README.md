@@ -4,26 +4,26 @@ This project is done as part of the academic cource cloud computing with course 
 
 AWS Web Deployment Using EC2 Instance and RDS Database
 
-Task 0: Setting AWS Budget
+# Task 0: Setting AWS Budget
 
 ![image](https://user-images.githubusercontent.com/51742316/234733917-667da7ca-21b9-442c-910a-24db43dfe948.png)
 
 
 
 
-Task 1: Develop CRUD Application
+# Task 1: Develop CRUD Application
 
 ![image](https://user-images.githubusercontent.com/51742316/234736390-972d6a37-787b-4173-bcee-04956283d647.png)
 
 
-Task 2: Deploying database using AWS RDS
+# Task 2: Deploying database using AWS RDS
 
 ![image](https://user-images.githubusercontent.com/51742316/234736703-ac7de8c2-46d0-4237-a1ec-f7636eaf5292.png)
 
 ![image](https://user-images.githubusercontent.com/51742316/234736475-59b6746f-d930-4b66-b04d-bc28732c92a0.png)
 
 
-Task 3: Deploying Web Application in EC2 instance
+# Task 3: Deploying Web Application in EC2 instance
 
 EC2 Instance Created
 
