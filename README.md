@@ -2,7 +2,18 @@
 This project is done as part of the academic cource cloud computing with course code UE20CS351, PES University
 
 
-AWS Web Deployment Using EC2 Instance and RDS Database
+Cloud Computing Mini Project team:
+
+Pavankumar Hegde  : PES1UG20CS823
+
+Monisha           : PES1UG21CS820
+
+Nagaratna Naik    : PES1UG21CS821
+
+Nandini           : PES1UG21CS823
+
+
+#AWS Web Deployment Using EC2 Instance and RDS Database
 
 # Task 0: Setting AWS Budget
 
